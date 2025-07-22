@@ -1,7 +1,7 @@
 
 //making object of weatherapi
 const weatherApi = {
-    key: '4eb3703790b356562054106543b748b2',
+    key: '1ce9d52a2be5cbd856c7faf28f157140',
     baseUrl: 'https://api.openweathermap.org/data/2.5/weather'
 }
 
